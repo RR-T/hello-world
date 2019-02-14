@@ -6,6 +6,6 @@ Test repository in github!
 `here are some cody bits`.  
  
  
-  list item1
-  list item 2
-  list item 3
+- list item1
+- list item 2
+- list item 3
