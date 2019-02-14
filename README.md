@@ -3,7 +3,7 @@ Test repository in github!
 
 #### This works!
 
-`here are some cody bits`  
+`here are some cody bits`.  
  
  
   list item1
